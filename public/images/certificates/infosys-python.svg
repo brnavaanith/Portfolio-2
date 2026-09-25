@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="100%" height="100%">
+  <!-- Background -->
+  <rect width="1000" height="700" fill="#ffffff"/>
+  
+  <!-- Infosys Brand Blue Top Bar -->
+  <text x="500" y="90" fill="#007cc3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="700" text-anchor="middle">
+    Infosys
+  </text>
+  <text x="500" y="112" fill="#555555" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" text-anchor="middle" letter-spacing="1">
+    Navigate your next
+  </text>
+
+  <!-- Decorative Striped Bar -->
+  <g stroke="#89cff0" stroke-width="3" opacity="0.6">
+    <line x1="40" y1="185" x2="40" y2="215"/>
+    <line x1="55" y1="185" x2="55" y2="215"/>
+    <line x1="70" y1="185" x2="70" y2="215"/>
+    <line x1="85" y1="185" x2="85" y2="215"/>
+    <line x1="100" y1="185" x2="100" y2="215"/>
+    <line x1="115" y1="185" x2="115" y2="215"/>
+    <line x1="130" y1="185" x2="130" y2="215"/>
+    <line x1="145" y1="185" x2="145" y2="215"/>
+    <line x1="160" y1="185" x2="160" y2="215"/>
+    <line x1="175" y1="185" x2="175" y2="215"/>
+    <line x1="190" y1="185" x2="190" y2="215"/>
+    
+    <line x1="810" y1="185" x2="810" y2="215"/>
+    <line x1="825" y1="185" x2="825" y2="215"/>
+    <line x1="840" y1="185" x2="840" y2="215"/>
+    <line x1="855" y1="185" x2="855" y2="215"/>
+    <line x1="870" y1="185" x2="870" y2="215"/>
+    <line x1="885" y1="185" x2="885" y2="215"/>
+    <line x1="900" y1="185" x2="900" y2="215"/>
+    <line x1="915" y1="185" x2="915" y2="215"/>
+    <line x1="930" y1="185" x2="930" y2="215"/>
+    <line x1="945" y1="185" x2="945" y2="215"/>
+    <line x1="960" y1="185" x2="960" y2="215"/>
+  </g>
+
+  <!-- Title -->
+  <text x="500" y="205" fill="#007cc3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="600" text-anchor="middle" letter-spacing="2">
+    COURSE COMPLETION CERTIFICATE
+  </text>
+
+  <!-- Subtitle -->
+  <text x="500" y="260" fill="#333333" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" text-anchor="middle">
+    The certificate is awarded to
+  </text>
+
+  <!-- Name -->
+  <text x="500" y="320" fill="#007cc3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="700" text-anchor="middle">
+    Navaanith B R
+  </text>
+
+  <text x="500" y="365" fill="#333333" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" text-anchor="middle">
+    for successfully completing the course
+  </text>
+
+  <!-- Course Name -->
+  <text x="500" y="415" fill="#111827" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="700" text-anchor="middle">
+    Basics of Python
+  </text>
+
+  <!-- Date -->
+  <text x="500" y="455" fill="#4b5563" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" text-anchor="middle">
+    on March 30, 2026
+  </text>
+
+  <!-- Springboard Logo & Congrats -->
+  <text x="500" y="525" fill="#007cc3" font-family="sans-serif" font-size="26" font-weight="700" text-anchor="middle">
+    Infosys <tspan fill="#ff7a00">| Springboard</tspan>
+  </text>
+  <text x="500" y="565" fill="#df691a" font-family="Georgia, serif" font-style="italic" font-size="20" text-anchor="middle">
+    Congratulations! You make us proud!
+  </text>
+
+  <!-- Simulated QR Code on bottom left -->
+  <g transform="translate(60, 480)">
+    <rect width="130" height="130" fill="#f8fafc" stroke="#333333" stroke-width="2"/>
+    <!-- QR pattern -->
+    <rect x="15" y="15" width="30" height="30" fill="#111827"/>
+    <rect x="20" y="20" width="20" height="20" fill="#ffffff"/>
+    <rect x="24" y="24" width="12" height="12" fill="#111827"/>
+    
+    <rect x="85" y="15" width="30" height="30" fill="#111827"/>
+    <rect x="90" y="20" width="20" height="20" fill="#ffffff"/>
+    <rect x="94" y="24" width="12" height="12" fill="#111827"/>
+    
+    <rect x="15" y="85" width="30" height="30" fill="#111827"/>
+    <rect x="20" y="90" width="20" height="20" fill="#ffffff"/>
+    <rect x="24" y="94" width="12" height="12" fill="#111827"/>
+    
+    <circle cx="65" cy="65" r="8" fill="#111827"/>
+    <rect x="55" y="25" width="10" height="10" fill="#111827"/>
+    <rect x="65" y="85" width="20" height="10" fill="#111827"/>
+    <rect x="85" y="55" width="10" height="20" fill="#111827"/>
+  </g>
+  <text x="60" y="635" fill="#666666" font-family="sans-serif" font-size="11">Issued on: Monday, March 30, 2026</text>
+  <text x="60" y="650" fill="#007cc3" font-family="sans-serif" font-size="11">To verify: https://verify.onwingspan.com</text>
+
+  <!-- Signature on bottom right -->
+  <g transform="translate(730, 560)">
+    <path d="M10 25 Q30 5, 60 20 T110 15 T160 30" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+    <line x1="0" y1="40" x2="200" y2="40" stroke="#cbd5e1" stroke-width="1"/>
+    <text x="100" y="58" fill="#111827" font-family="sans-serif" font-size="13" font-weight="600" text-anchor="middle">Satheesha B. Nanjappa</text>
+    <text x="100" y="74" fill="#6b7280" font-family="sans-serif" font-size="11" text-anchor="middle">Senior Vice President and Head</text>
+    <text x="100" y="88" fill="#6b7280" font-family="sans-serif" font-size="11" text-anchor="middle">Education, Training and Assessment</text>
+    <text x="100" y="102" fill="#6b7280" font-family="sans-serif" font-size="11" text-anchor="middle">Infosys Limited</text>
+  </g>
+</svg>

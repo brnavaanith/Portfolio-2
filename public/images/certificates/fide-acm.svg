@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 950" width="100%" height="100%">
+  <!-- White Paper Background -->
+  <rect width="700" height="950" fill="#ffffff"/>
+
+  <!-- Blue Ornamental Border -->
+  <rect x="25" y="25" width="650" height="900" fill="none" stroke="#0072bc" stroke-width="3"/>
+  <rect x="32" y="32" width="636" height="886" fill="none" stroke="#0072bc" stroke-width="1.5"/>
+
+  <!-- FIDE Blue repeating text ribbon -->
+  <rect x="32" y="415" width="636" height="18" fill="#0072bc"/>
+  <text x="350" y="428" fill="#ffffff" font-family="-apple-system, sans-serif" font-size="9" font-weight="700" letter-spacing="4" text-anchor="middle">
+    F.I.D.E.  F.I.D.E.  F.I.D.E.  F.I.D.E.  F.I.D.E.  F.I.D.E.  F.I.D.E.  F.I.D.E.  F.I.D.E.  F.I.D.E.
+  </text>
+
+  <!-- FIDE Central Logo Emblem -->
+  <g transform="translate(350, 160)">
+    <!-- Blue Globe / Oval with Knight -->
+    <ellipse cx="0" cy="0" rx="90" ry="70" fill="#0072bc"/>
+    <!-- Globe lines -->
+    <ellipse cx="0" cy="0" rx="90" ry="25" fill="none" stroke="#ffffff" stroke-width="2"/>
+    <ellipse cx="0" cy="0" rx="90" ry="50" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <line x1="-90" y1="0" x2="90" y2="0" stroke="#ffffff" stroke-width="2"/>
+    <!-- Chess Knight in White -->
+    <path d="M-15 45 L15 45 L12 25 C12 20, 24 15, 20 -10 C18 -25, 5 -40, -10 -40 C-22 -40, -28 -25, -28 -10 C-28 5, -22 15, -15 25 Z" fill="#ffffff"/>
+    <circle cx="-5" cy="-22" r="3" fill="#0072bc"/>
+    
+    <!-- FIDE Text Under Logo -->
+    <rect x="-45" y="76" width="90" height="24" fill="#ffffff"/>
+    <text x="0" y="94" fill="#0072bc" font-family="Georgia, serif" font-size="20" font-weight="900" letter-spacing="2" text-anchor="middle">FIDE</text>
+    <text x="0" y="118" fill="#0072bc" font-family="Georgia, serif" font-size="14" font-weight="700" letter-spacing="1.5" text-anchor="middle">GENS UNA SUMUS</text>
+  </g>
+
+  <!-- Federation Multi-language Header -->
+  <g transform="translate(350, 320)" fill="#1e293b" font-family="sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" letter-spacing="0.5">
+    <text y="0">FEDERATION INTERNATIONALE DES ECHECS</text>
+    <text y="15">WORLD CHESS FEDERATION</text>
+    <text y="30">МЕЖДУНАРОДНАЯ ШАХМАТНАЯ ФЕДЕРАЦИЯ</text>
+    <text y="45">WELTSCHACHBUND</text>
+    <text y="60">FEDERACION INTERNACIONAL DE AJEDREZ</text>
+  </g>
+
+  <!-- Diploma Body -->
+  <text x="350" y="490" fill="#333333" font-family="Georgia, serif" font-style="italic" font-size="19" text-anchor="middle">
+    By this diploma I confirm that
+  </text>
+
+  <!-- Recipient Name -->
+  <text x="350" y="555" fill="#111827" font-family="Georgia, serif" font-style="italic" font-size="38" font-weight="bold" text-anchor="middle">
+    Navaanith Rajesh
+  </text>
+
+  <!-- Country -->
+  <text x="350" y="615" fill="#111827" font-family="Georgia, serif" font-style="italic" font-size="32" font-weight="bold" text-anchor="middle">
+    India
+  </text>
+
+  <text x="350" y="665" fill="#333333" font-family="Georgia, serif" font-style="italic" font-size="18" text-anchor="middle">
+    has obtained the title of
+  </text>
+
+  <!-- Title Awarded -->
+  <text x="350" y="725" fill="#111827" font-family="Georgia, serif" font-style="italic" font-size="34" font-weight="bold" text-anchor="middle">
+    Arena Candidate Master
+  </text>
+
+  <!-- Year -->
+  <text x="350" y="775" fill="#333333" font-family="Georgia, serif" font-style="italic" font-size="17" text-anchor="middle">
+    in the year 2025
+  </text>
+
+  <!-- Signature -->
+  <g transform="translate(350, 830)">
+    <path d="M-60 10 Q-20 -20, 20 5 T70 -5" fill="none" stroke="#0072bc" stroke-width="2"/>
+    <line x1="-90" y1="25" x2="90" y2="25" stroke="#94a3b8" stroke-width="1" stroke-dasharray="2 2"/>
+    <text x="0" y="42" fill="#111827" font-family="sans-serif" font-size="12" font-weight="600" text-anchor="middle">FIDE President</text>
+    <text x="0" y="58" fill="#111827" font-family="sans-serif" font-size="13" font-weight="700" text-anchor="middle">Arkady Dvorkovich</text>
+  </g>
+</svg>
